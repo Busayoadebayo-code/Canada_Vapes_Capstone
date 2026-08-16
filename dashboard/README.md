@@ -1,1 +1,3 @@
-The Power BI .pbix file exceeds GitHub’s web upload limit, so this folder includes selected dashboard screenshots that demonstrate the main KPIs, customer insights, forecasting, and regional analysis.
+## Power BI Dashboard
+
+**The Power BI .pbix file exceeds GitHub’s web upload limit, so this folder includes selected dashboard screenshots that demonstrate the main KPIs, customer insights, forecasting, and regional analysis.
