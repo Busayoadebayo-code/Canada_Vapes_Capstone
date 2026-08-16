@@ -1,1 +1,1 @@
-Final capstone report and supporting documentation for the Canada Vapes project.
+Final capstone report for the Canada Vapes project.
